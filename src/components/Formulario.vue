@@ -66,7 +66,7 @@
         <h2 class="font-black text-3xl text-center">Seguimiento Mascotas</h2>
 
         <p class="text-lg mt-5 text-center mb-10">
-            Añade Pacientes y 
+            Añade Mascotas y 
             <span class="text-indigo-600 font-bold">Adminístralos</span>
         </p>
 
